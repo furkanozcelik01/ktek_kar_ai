@@ -264,6 +264,7 @@ class ConcentrationApp(QMainWindow):
         if event.key() == Qt.Key_Escape:
             self.close()
 
+
 def main():
     app = QApplication(sys.argv)
     window = ConcentrationApp()
