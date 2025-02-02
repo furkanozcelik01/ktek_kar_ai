@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/res">
+    <file>res/images/info.png</file>
+    <file>res/images/star.png</file>
+    <file>res/images/warning.png</file>
+    <file>res/images/arkaplan.png</file>
+    <file>res/images/logo.png</file>
+  </qresource>
+</RCC>
